@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Grovyo Ads",
-  description: "Created By Grovyo Platforms Pvt Ltd",
+  description: "Created By Grovyo Platforms Pvt. Ltd.",
 };
 
 export default function RootLayout({ children }) {
